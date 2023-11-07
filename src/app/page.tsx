@@ -1,5 +1,5 @@
 import AcmeLogo from '@/src/ui/acme-logo';
-import { lusitana } from '../utils/fonts';
+import { lusitana } from '@/src/utils/fonts';
 import Image from 'next/image';
 import Link from 'next/link';
 
