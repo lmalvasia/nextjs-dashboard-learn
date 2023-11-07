@@ -4,7 +4,7 @@ const {
   customers,
   revenue,
   users,
-} = require('../app/lib/placeholder-data.js');
+} = require('./placeholder-data');
 const bcrypt = require('bcrypt');
 
 async function seedUsers(client) {
